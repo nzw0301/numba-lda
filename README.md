@@ -23,7 +23,9 @@ python mat2doc.py
 
 ```sh
 python run_lda.py
+```
 
+```
 topic k=0
 learning 0.03689455257690798
 state 0.024255139224188087
